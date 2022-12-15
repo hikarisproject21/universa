@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/universa/static/css/main.d8701944.css",
+    "main.js": "/universa/static/js/main.e7e50f4e.js",
+    "static/js/787.2a74f8db.chunk.js": "/universa/static/js/787.2a74f8db.chunk.js",
+    "static/media/1.png": "/universa/static/media/1.0f3ddb1f2e988debed11.png",
+    "static/media/5.png": "/universa/static/media/5.5cf3fb498bd18ef8a1d0.png",
+    "static/media/3.png": "/universa/static/media/3.d5dea36a0aff91ee0cb0.png",
+    "static/media/4.png": "/universa/static/media/4.2bc654e3923901726fa7.png",
+    "static/media/galaxy.png": "/universa/static/media/galaxy.b2de99ff46c41ea52ded.png",
+    "static/media/2.png": "/universa/static/media/2.ad6673a729874a3a7efe.png",
+    "static/media/Illustration_1.png": "/universa/static/media/Illustration_1.0d466b36ef0ab98da167.png",
+    "static/media/Illustration_2.png": "/universa/static/media/Illustration_2.7c6acf07823e125f7358.png",
+    "static/media/planet.png": "/universa/static/media/planet.d8182fad8d6dd5e03aaa.png",
+    "static/media/Check.png": "/universa/static/media/Check.9352cdd70a511dc72d72.png",
+    "static/media/maps.png": "/universa/static/media/maps.9352cdd70a511dc72d72.png",
+    "static/media/Huge_Global.png": "/universa/static/media/Huge_Global.cc102843503a32b4f6f1.png",
+    "static/media/meteor.png": "/universa/static/media/meteor.2909efaeb42cde6d583d.png",
+    "static/media/users.png": "/universa/static/media/users.681d7398d62e9cbb7aa6.png",
+    "static/media/Logo.png": "/universa/static/media/Logo.d07354386c2b4fe4aaa6.png",
+    "static/media/Free.png": "/universa/static/media/Free.650f18c4f73a5613b298.png",
+    "static/media/Instagram.png": "/universa/static/media/Instagram.f118fcdb83a990f6e72c.png",
+    "static/media/Twitter.png": "/universa/static/media/Twitter.bd8d7d82f5640a4d413f.png",
+    "static/media/Facebook.png": "/universa/static/media/Facebook.9eb4ae5d56062f8d4d31.png",
+    "static/media/Spotify.png": "/universa/static/media/Spotify.4a327cf9899d1beef855.png",
+    "static/media/reddit.png": "/universa/static/media/reddit.af2897355571d68e9e19.png",
+    "static/media/Netflix.png": "/universa/static/media/Netflix.2b693a43bb7deabf4155.png",
+    "static/media/slick.svg": "/universa/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/universa/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/universa/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/universa/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/universa/index.html",
+    "main.d8701944.css.map": "/universa/static/css/main.d8701944.css.map",
+    "main.e7e50f4e.js.map": "/universa/static/js/main.e7e50f4e.js.map",
+    "787.2a74f8db.chunk.js.map": "/universa/static/js/787.2a74f8db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8701944.css",
+    "static/js/main.e7e50f4e.js"
+  ]
+}
